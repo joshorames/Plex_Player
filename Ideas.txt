@@ -1,0 +1,2 @@
+ideas: 
+- loop needs to be continous and not stop for user input https://stackoverflow.com/questions/20576960/python-infinite-while-loop-break-on-user-input
